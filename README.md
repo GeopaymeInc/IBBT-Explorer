@@ -1,3 +1,5 @@
+[![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
+
 # GEO-Explorer
 ### Lightweight explorer for ERC20 Based Ethereum tokens
 
