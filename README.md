@@ -1,9 +1,9 @@
 [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 
-# GEO-Explorer
+# iBBT-Explorer
 ### Lightweight explorer for ERC20 Based Ethereum tokens
 
-GEO-Explorer is an explorer built with NodeJS, Express and Parity. It does not require an external database and retrieves all information on the fly from a backend Ethereum node.
+iBBT-Explorer is an explorer built with NodeJS, Express and Parity. It does not require an external database and retrieves all information on the fly from a backend Ethereum node.
 
 
 A demo instance connected to the Golem Network Token is available at [gnt.etherchain.org](http://gnt.etherchain.org).
